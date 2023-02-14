@@ -1,0 +1,179 @@
+.dropdown-menu {
+    list-style-type: none;    
+    margin: 0;
+    text-align: center;
+}
+
+.menu {
+    text-align: right;
+    list-style-type: none;
+    background-color: teal;
+    height: 100%;
+}
+
+.menu li {
+    display: inline;
+    padding: 20px;
+    text-decoration: none;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+    background-color: teal;
+}
+
+.dropdown-menu li {
+    display: inline;
+    padding: 40px;
+    background-color: teal;
+    width: 100%;
+    
+}
+
+.title {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: 100%;
+    
+}
+
+.middle {
+    text-align: center;
+}
+
+.middle h2 {
+    font-size: 68px;
+}
+
+.middle p {
+    font-size: 34px;
+}
+
+
+.middle span {
+  display: block;
+  margin-top: 200px;
+}
+
+.plan {
+    position: absolute;
+    top: 600px;
+    left: 500px;
+}
+
+.Oscar {
+    margin-left:25%;
+}
+.Oscar h3 {
+   float: right;
+   margin-right: 40%;
+   font-size: 34px;
+   position: relative;
+   bottom: 400px;
+}
+
+.perscriptions {
+    float: right;   
+    margin-left: 50%;
+    padding-top: 60px;
+}
+
+.perscriptions h4 {
+    font-size: 30px;
+    position: relative;
+    right: 400px;
+    bottom: 400px;
+}
+
+.doctor {
+    margin-left: 25%;
+}
+
+.doctor h3 {
+    float: right;
+    position: relative;
+    font-size: 34px;
+    bottom: 400px;
+    right: 400px
+}
+
+.walk {
+    float: right;   
+    margin-left: 50%;
+    padding-top: 60px;
+}
+
+.walk h4 {
+    font-size: 30px;
+    position: relative;
+    right: 400px;
+    bottom: 400px;
+}
+
+img {
+    display: block;
+}
+
+.bottom h5 {
+    position: relative;
+    left: 100px;
+    font-size: 60px;
+}
+
+.baby {
+    position: relative;
+    left: 100px;
+}
+
+ h6 {
+    float: right;
+    position: relative;
+    font-size: 54px;
+    bottom: 450px;
+    right: 300px
+}
+
+.bottom p {
+    float: right;
+    position: relative;
+    font-size: 24px;
+    bottom: 250px;
+    left: 250px;
+}
+
+.worker {
+    float: left;
+    position: relative;
+    left: 99px;
+    padding-top: 10px;
+}
+
+.therapy {
+    position: relative;
+    left: 140px;
+    bottom: 65px;
+}
+
+.logo {
+    position: relative;
+    left: 800px;
+    bottom: 250px;
+}
+
+.caption {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+}
+
+.text {
+    font-weight: bold;
+}
+
+.signup {
+    width: 100%;
+}
+
